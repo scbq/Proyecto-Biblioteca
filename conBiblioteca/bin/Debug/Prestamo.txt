@@ -1,0 +1,15 @@
+P,19189125-2,El padrino,988887777,Central,Juan Guerra,Clásicos,5
+L,18971953-1,Harry Potter,991112222,Oriente,Jacinta Torres,narrativo,blanda
+P,9245721-1,El mago de Oz,933099889,Central,Héctor Pavez,Clásicos,12
+P,19276131-K,Ciudadano Kane,736667777,Oriente,Gracia Lara,Blanco y negro,6
+L,15340450-K,El Señor de los Anillos,912123434,Oriente,Lucía Matte,narrativo,dura
+P,18539977-K,Cadena perpetua,930004444,Oriente,Juan Guerra,Blanco y negro,2
+P,19322976-K,Pulp Fiction,999997777,Oriente,Laura Arias,Blanco y negro,4
+L,19285240-4,El Alquimista,977005555,Oriente,Javier Solar,dramático,dura
+L,15210174-0,El Código da Vinci,967678989,Oriente,Luis Jara,lírico,blanda
+P,12300400-0,Casablanca,965651122,Central,Gracia Lara,Clásicos,2
+L,16104514-4,Crepúsculo,978789898,Central,Juan Guerra,lírico,blanda
+P,18612388-3,E.T. el extraterrestre,933443344,Central,Juan Guerra,Clásicos,3
+L,18709227-2,Lo que el viento se llevó,966776677,Central,Javier Solar,cuento,blanda
+P,19189125-2,El padrino II,988887777,Central,Juan Guerra,Clásicos,15
+L,15340450-3,El hobbit,732123434,Oriente,Richard Armitage,juvenil,dura

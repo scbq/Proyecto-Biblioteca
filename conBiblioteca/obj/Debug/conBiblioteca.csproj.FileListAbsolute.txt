@@ -1,0 +1,8 @@
+C:\Users\valen\OneDrive\Escritorio\programacion\SolAguileraFelipe\conBiblioteca\obj\Debug\conBiblioteca.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\programacion\SolAguileraFelipe\conBiblioteca\obj\Debug\conBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\programacion\SolAguileraFelipe\conBiblioteca\obj\Debug\conBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\programacion\SolAguileraFelipe\conBiblioteca\bin\Debug\conBiblioteca.exe.config
+C:\Users\valen\OneDrive\Escritorio\programacion\SolAguileraFelipe\conBiblioteca\bin\Debug\conBiblioteca.exe
+C:\Users\valen\OneDrive\Escritorio\programacion\SolAguileraFelipe\conBiblioteca\bin\Debug\conBiblioteca.pdb
+C:\Users\valen\OneDrive\Escritorio\programacion\SolAguileraFelipe\conBiblioteca\obj\Debug\conBiblioteca.exe
+C:\Users\valen\OneDrive\Escritorio\programacion\SolAguileraFelipe\conBiblioteca\obj\Debug\conBiblioteca.pdb
